@@ -25,7 +25,7 @@
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
+      <a href="https://www.instagram.com/pavan_reddi_2?igsh=MWZqcDIxNHFmajc0aA==" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://wa.me/+919676230874" target="blank"><img align="center"
