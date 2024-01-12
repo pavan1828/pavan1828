@@ -4,7 +4,7 @@
 <br>
 
 
-📊 Aspiring Data Analyst | 💻 Python | 📈 Data Viz Adept  
+📊 Aspiring Data Analyst | 💻 Python | 📈 Data Viz Adept | 📜 SQL 
 🧑‍💻 Passionate about solving problems with software  
 💻 Competitive programmer at Codeforces, Atcoder, Leetcode, Codechef, Google Contests  
 🧑‍🎓 Learning Data Science  
@@ -93,6 +93,9 @@
     <a href="#"><img alt="Spyder" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    &emsp;
+    <a href="#"><img alt="power bi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+  
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
