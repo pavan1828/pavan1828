@@ -4,7 +4,7 @@
 <br>
 
 
-📊 Aspiring Data Analyst | 💻 Python | 📈 Data Viz Adept | 📜 SQL 
+📊 Aspiring Data Analyst | 💻 Python | 📈 Data Viz Adept | 📜 SQL   
 🧑‍💻 Passionate about solving problems with software  
 💻 Competitive programmer at Codeforces, Atcoder, Leetcode, Codechef, Google Contests  
 🧑‍🎓 Learning Data Science  
